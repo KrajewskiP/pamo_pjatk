@@ -1,0 +1,2 @@
+include ':lab1'
+rootProject.name = "bmi"

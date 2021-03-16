@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bmi</string>
+    <string name="count_your_bmi">Count your BMI</string>
+    <string name="input_height_placeholder">Input your height [in cm]</string>
+    <string name="input_weight_placeholder">Input your weight [in kg]</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="reset_button">Reset</string>
+    <string name="result_message">Your BMI:</string>
+</resources>
