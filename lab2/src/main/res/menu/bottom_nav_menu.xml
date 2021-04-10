@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_bmi"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_bmi" />
+
+    <item
+        android:id="@+id/navigation_bmr"
+        android:icon="@drawable/baseline_calculate_24"
+        android:title="@string/title_bmr" />
+
+    <item
+        android:id="@+id/navigation_recipe"
+        android:icon="@drawable/baseline_receipt_24"
+        android:title="@string/title_recipe" />
+
+</menu>

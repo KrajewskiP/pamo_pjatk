@@ -1,0 +1,1 @@
+zad2 - Kalkulator BMI + BMR + TEE (Total expenditure energy) + suggested meal
