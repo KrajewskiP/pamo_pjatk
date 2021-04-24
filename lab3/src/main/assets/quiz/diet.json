@@ -1,0 +1,149 @@
+[
+  {
+    "question": "BMI is:",
+    "answers": [
+      {
+        "answer": "Body Mass Index",
+        "correct": true
+      },
+      {
+        "answer": "Body Mass Indicator",
+        "correct": false
+      },
+      {
+        "answer": "Best Meal Indicator",
+        "correct": false
+      },
+      {
+        "answer": "Bad Mouth Illness",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "BMR is:",
+    "answers": [
+      {
+        "answer": "Body Mass Rate",
+        "correct": false
+      },
+      {
+        "answer": "Body Measure Rate",
+        "correct": false
+      },
+      {
+        "answer": "Basal Metabolic Rate",
+        "correct": true
+      },
+      {
+        "answer": "Best Meal Rate",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What has the lowest glycemic index?",
+    "answers": [
+      {
+        "answer": "pineapple",
+        "correct": false
+      },
+      {
+        "answer": "sugar",
+        "correct": false
+      },
+      {
+        "answer": "bread",
+        "correct": false
+      },
+      {
+        "answer": "raspberry",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "What is the most important meal?",
+    "answers": [
+      {
+        "answer": "breakfast",
+        "correct": true
+      },
+      {
+        "answer": "dinner",
+        "correct": false
+      },
+      {
+        "answer": "coffee",
+        "correct": false
+      },
+      {
+        "answer": "lunch",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "How many meals you should have during the day?",
+    "answers": [
+      {
+        "answer": "1",
+        "correct": false
+      },
+      {
+        "answer": "2",
+        "correct": false
+      },
+      {
+        "answer": "3",
+        "correct": false
+      },
+      {
+        "answer": "4 or more",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "What is the best way to lose calories?",
+    "answers": [
+      {
+        "answer": "sport activities",
+        "correct": true
+      },
+      {
+        "answer": "sleep",
+        "correct": false
+      },
+      {
+        "answer": "candy bars",
+        "correct": false
+      },
+      {
+        "answer": "supplements",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is main builder of muscles?",
+    "answers": [
+      {
+        "answer": "proteins",
+        "correct": true
+      },
+      {
+        "answer": "vitamins",
+        "correct": false
+      },
+      {
+        "answer": "carbohydrates",
+        "correct": false
+      },
+      {
+        "answer": "blood cells",
+        "correct": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "question": "How is COVID-19 passed on?",
+    "answers": [
+      {
+        "answer": "through droplets",
+        "correct": true
+      },
+      {
+        "answer": "by drinking unclean water",
+        "correct": false
+      },
+      {
+        "answer": "by using dirty needles",
+        "correct": false
+      },
+      {
+        "answer": "all answers are correct",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What are the common symptoms of COVID-19",
+    "answers": [
+      {
+        "answer": "cough",
+        "correct": false
+      },
+      {
+        "answer": "fever",
+        "correct": false
+      },
+      {
+        "answer": "all answers are correct",
+        "correct": true
+      },
+      {
+        "answer": "tiredness",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "How should masks be worn?",
+    "answers": [
+      {
+        "answer": "only on mouth",
+        "correct": false
+      },
+      {
+        "answer": "on forehead",
+        "correct": false
+      },
+      {
+        "answer": "in pocket",
+        "correct": false
+      },
+      {
+        "answer": "on mouth and nose",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "How you can avoid spreading COVID-19",
+    "answers": [
+      {
+        "answer": "social distance",
+        "correct": true
+      },
+      {
+        "answer": "wearing mask",
+        "correct": false
+      },
+      {
+        "answer": "washing your hands",
+        "correct": false
+      },
+      {
+        "answer": "all answers are correct",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is minimal percentage of alcohol in hand sanitizers to kill virus?",
+    "answers": [
+      {
+        "answer": "10%",
+        "correct": false
+      },
+      {
+        "answer": "25%",
+        "correct": false
+      },
+      {
+        "answer": "50%",
+        "correct": false
+      },
+      {
+        "answer": "65%",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Which company does not produce COVID-19 vaccines?",
+    "answers": [
+      {
+        "answer": "Moderna",
+        "correct": false
+      },
+      {
+        "answer": "Pfizer",
+        "correct": false
+      },
+      {
+        "answer": "AstraZeneca",
+        "correct": false
+      },
+      {
+        "answer": "Nestle",
+        "correct": true
+      }
+    ]
+  }
+]

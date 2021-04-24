@@ -1,3 +1,4 @@
+include ':lab3'
 include ':lab2'
 include ':lab1'
 rootProject.name = "bmi"

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_bmi">
+
+    <fragment
+        android:id="@+id/navigation_bmi"
+        android:name="pl.pjatk.lab3.ui.bmi.BmiFragment"
+        android:label="test"
+        tools:layout="@layout/fragment_bmi" />
+
+    <fragment
+        android:id="@+id/navigation_bmr"
+        android:name="pl.pjatk.lab3.ui.bmr.BmrFragment"
+        android:label="@string/title_bmr"
+        tools:layout="@layout/fragment_bmr" />
+
+    <fragment
+        android:id="@+id/navigation_recipe"
+        android:name="pl.pjatk.lab3.ui.recipe.RecipeFragment"
+        android:label="@string/title_recipe"
+        tools:layout="@layout/fragment_recipe" />
+</navigation>

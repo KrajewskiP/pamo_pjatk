@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">BMI - Lab3</string>
+    <string name="title_bmi">Count BMI</string>
+    <string name="title_bmr">Count BMR</string>
+    <string name="title_recipe">Recipes</string>
+    <string name="count_your_bmi">Count your BMI</string>
+    <string name="input_height_placeholder">Input your height [in cm]</string>
+    <string name="input_weight_placeholder">Input your weight [in kg]</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="reset_button">Reset</string>
+    <string name="result_message">Your BMI:</string>
+    <string name="bmi_result">bmi</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="age">age</string>
+    <string name="count_your_bmr">Count BMR and Total energy expenditure</string>
+    <string name="input_age_placeholder">Input your age</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="input_gender_placeholder">Choose gender</string>
+    <string name="activity_prompt">Physical activity level</string>
+    <string name="result_head_bmr">Your BMR (Basal Metabolic Rate)</string>
+    <string name="result_bmr">%1$.2f kcal/day</string>
+    <string name="result_head_tee">Your TEE (Total energy expenditure)</string>
+    <string name="result_tee">%1$.2f kcal/day</string>
+    <string name="imageDescription">Recipe description</string>
+    <string name="missing_bmi">Calculate your BMI, after that you can see personalized recipe</string>
+    <string name="bmi_recipe">Your BMI: %1$s \n Suggested meal:</string>
+    <string name="bmi_calculator">BMI / BMR Calculator</string>
+    <string name="coronavirus_info">Get info about virus</string>
+
+    <string-array name="activities">
+        <item>no/little exercises</item>
+        <item>light exercise 1–3 times a week</item>
+        <item>moderate exercise 3–5 times a week</item>
+        <item>hard exercise 6–7 times a week</item>
+        <item>hard exercise and physical job</item>
+    </string-array>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="country_spinner_title">Select country</string>
+    <string name="pick_end_date">Pick end date</string>
+    <string name="pick_start_date">Pick start date</string>
+    <string name="draw_chart">Draw chart</string>
+    <string name="set_date">Set Date</string>
+    <string name="quiz">Quiz</string>
+    <string name="setup_quiz">Setup quiz</string>
+    <string name="start_quiz">Start quiz</string>
+    <string name="question_header_number">Question %1$s / %2$s</string>
+    <string name="end_quiz">End quiz</string>
+    <string name="next_question">Next question</string>
+    <string name="finish_quiz">Finish quiz</string>
+    <string name="quiz_summary_header">You finished quiz!</string>
+    <string name="quiz_summary_result">Your result: %1$s / %2$s</string>
+    <string name="start_over">Start over</string>
+    <string name="exit">Exit</string>
+    <string name="btn_change_search_criteria">Change search criteria</string>
+    <string name="choose_questions">Choose type of questions</string>
+    <string name="diet">Diet</string>
+    <string name="coronavirus">Coronavirus</string>
+</resources>
